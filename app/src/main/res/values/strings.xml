@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Unit4AndroidActivity</string>
+    <string name="app_name">Unit 4 - Android Activity</string>
+    <string-array name="emotions">
+        <item>happy! 😁</item>
+        <item>sad! 😔</item>
+        <item>angry! 😡</item>
+        <item>confused! 😵</item>
+        <item>excited! 🤩</item>
+        <item>irritated! 😤</item>
+    </string-array>
 </resources>
