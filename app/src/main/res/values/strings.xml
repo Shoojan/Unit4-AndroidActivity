@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">Unit 4 - Android Activity</string>
+    <string-array name="gifts">
+        <item>Flowers! 💐</item>
+        <item>Chocolate! 🍫</item>
+        <item>Book! 📕</item>
+        <item>Purse! 👛</item>
+        <item>Ring! 💍</item>
+        <item>Boxing Gloves! 🥊</item>
+    </string-array>
     <string-array name="emotions">
         <item>happy! 😁</item>
         <item>sad! 😔</item>
